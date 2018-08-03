@@ -39,6 +39,7 @@ Before starting Mopidy, you must add configuration for
 Mopidy-GPIO420 to your Mopidy configuration file::
 
     [gpio420]
+    enabled = true
     # TODO: Add example of extension config
 
 
